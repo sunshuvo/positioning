@@ -1,6 +1,6 @@
 @keyframes move {
-  from {top: 23%; left: 30%; }
-  to {top: 40%; left:45%;}
+	from {top: 23%; left: 30%; }
+	to {top: 55%; left:55%;}
 }
 
 body{
